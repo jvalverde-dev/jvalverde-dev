@@ -1,36 +1,52 @@
-# ¡Hola! Soy Justin Valverde 🚀
-
-### Ingeniero de Sistemas en formación (UISIL) | Desarrollador Full-Stack & Mobile
-
-Soy un desarrollador apasionado por crear soluciones digitales de alto rendimiento que transforman negocios. Combino el rigor técnico de la ingeniería con la disciplina y el enfoque del deporte para entregar software sólido, escalable y centrado en el usuario.
-
----
-
-## 🛠️ Mi Stack Tecnológico
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web & Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<div align="center">
+  <h1>🚀 Justin Valverde | Desarrollo Web y Soluciones</h1>
+  <p><b>Ingeniero de Sistemas en Formación (UISIL) • Desarrollador Mobile & Full-Stack • Atleta de Alto Rendimiento</b></p>
+</div>
 
 ---
 
-## 🚀 Proyecto Destacado
-### **ESTACO CR - Estimador de Costos**
-Aplicación móvil profesional para la industria de la construcción en Costa Rica.
-- **Tecnología:** Flutter / Dart.
-- **Estado:** Publicada en Google Play Store.
+### 👨‍💻 Sobre mí
+Soy un desarrollador de **Pérez Zeledón** apasionado por transformar ideas en soluciones digitales robustas. Mi enfoque combina la **precisión técnica de la ingeniería** con la **disciplina y resiliencia** forjada en el deporte de alto rendimiento. Me especializo en crear ecosistemas digitales que no solo funcionan, sino que escalan.
+
+- 🔭 **Actualmente:** Liderando proyectos de consultoría técnica y desarrollo a medida.
+- ⚡ **Diferenciador:** Código limpio, entrega puntual y enfoque en resultados de negocio.
+- ⚽ **Mentalidad:** La disciplina del fútbol aplicada al desarrollo de software.
 
 ---
 
-## 📫 Conectemos
-- **LinkedIn:** [Tu Link de LinkedIn Aquí]
-- **Ubicación:** Pérez Zeledón, Costa Rica 🇨🇷
-- **Marca Personal:** Justin Valverde | Desarrollo Web y Soluciones
+### 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
 ---
-*"La disciplina le gana a la inteligencia cuando la inteligencia no tiene disciplina."*
+
+### 📱 Proyecto Destacado: ESTACO CR
+**Estimador de Costos para la Construcción** - Una solución móvil integral diseñada para el mercado costarricense.
+
+* 🍎 **App Store:** [Disponible aquí](https://apps.apple.com/cr/app/estaco-cr/id6755981891)
+* 🤖 **Google Play:** [Acceso Anticipado](https://play.google.com/store/apps/details?id=com.tfgapp.estacocr)
+* 🛠️ **Tech:** Flutter, Dart, Arquitectura Limpia.
+
+---
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=visual_studio_code"/>
+</div>
+
+---
+
+### 🤝 Conectemos
+¿Tenés un proyecto en mente o buscás potenciar tu negocio? Hablemos:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/justinvalverdev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/3r2cui)
+
+---
+<p align="center"><i>"Transformando líneas de código en soluciones de alto rendimiento."</i></p>
