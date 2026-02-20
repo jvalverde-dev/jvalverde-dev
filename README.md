@@ -34,13 +34,6 @@ Soy un desarrollador de **Pérez Zeledón** apasionado por transformar ideas en 
 
 ---
 
-### 🚀 Tecnologías que Dominio
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,dotnet,cs,py,java,mysql,mssql,html,css,bootstrap,git,github,visualstudio,vscode" />
-</div>
-
----
-
 ### 🤝 Conectemos
 ¿Tenés un proyecto en mente o buscás potenciar tu negocio? Hablemos:
 
