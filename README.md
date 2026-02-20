@@ -36,9 +36,8 @@ Soy un desarrollador de **Pérez Zeledón** apasionado por transformar ideas en 
 
 ### 📊 Análisis de Rendimiento (Estadísticas)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvalverde-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalverde-dev&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvalverde-dev&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalverde-dev&layout=compact&theme=radical&cache_seconds=1800"/>
 </div>
 
 ---
