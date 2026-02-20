@@ -37,7 +37,7 @@ Soy un desarrollador de **Pérez Zeledón** apasionado por transformar ideas en 
 ### 🤝 Conectemos
 ¿Tenés un proyecto en mente o buscás potenciar tu negocio? Hablemos:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/justinvalverdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinvalverdev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/3r2cui)
 
 ---
