@@ -52,22 +52,6 @@ A comprehensive mobile solution designed for civil construction cost estimation 
 * 🍎 **App Store:** [Download Here](https://apps.apple.com/cr/app/estaco-cr/id6755981891)
 * 🤖 **Google Play:** [Early Access](https://play.google.com/store/apps/details?id=com.tfgapp.estacocr)
 
-#### 📚 Library Management System
-A robust desktop application built with **C#, ASP.NET, and Microsoft SQL Server**. Structured under the **MVC** design pattern, applying OOP principles and advanced SQL query optimization for maximum data efficiency.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/jvalverde-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=jvalverde-dev&show_icons=true&theme=radical&hide_border=true" alt="Justin's GitHub Stats" />
-  </a>
-  <a href="https://github.com/jvalverde-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalverde-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
