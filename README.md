@@ -1,44 +1,78 @@
 <div align="center">
-  <h1>🚀 Justin Valverde | Desarrollo Web y Soluciones</h1>
-  <p><b>Ingeniero de Sistemas en Formación (UISIL) • Desarrollador Mobile & Full-Stack • Atleta de Alto Rendimiento</b></p>
+  <h1>Hi there, I'm Justin Valverde! 👋</h1>
+  <h3>Systems Engineer | Full-Stack | Mobile (Flutter) | Backend & Data | Problem Solver</h3>
+  <p><i>"Transforming lines of code into high-performance solutions."</i></p>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
-Soy un desarrollador de **Pérez Zeledón** apasionado por transformar ideas en soluciones digitales robustas. Mi enfoque combina la **precisión técnica de la ingeniería** con la **disciplina y resiliencia** forjada en el deporte de alto rendimiento. Me especializo en crear ecosistemas digitales que no solo funcionan, sino que escalan.
+### 👨‍💻 About Me
+I am a Systems Engineering student (expected graduation: Aug 2026) passionate about building scalable applications, writing clean code, and solving complex problems. My approach combines the **technical precision of engineering** with the **discipline and resilience** forged during my career as a high-performance professional athlete.
 
-- 🔭 **Actualmente:** Liderando proyectos de consultoría técnica y desarrollo a medida.
-- ⚡ **Diferenciador:** Código limpio, entrega puntual y enfoque en resultados de negocio.
-- ⚽ **Mentalidad:** La disciplina del fútbol aplicada al desarrollo de software.
-
----
-
-### 🛠️ Stack Tecnológico
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+- 🌍 I'm based in **Costa Rica**
+- 📱 **Highlight:** Designed and deployed **ESTACO CR** from scratch (Live on App Store & Google Play).
+- 🧠 Currently learning: **Data Analytics Essentials (Cisco) & Cloud Architecture (GCP)**
+- 🤝 Open to collaborate on: **Mobile Apps, Backend solutions, and Full-Stack development.**
+- 📫 Reach me at: **[jvalverde.dev@gmail.com](mailto:jvalverde.dev@gmail.com)**
 
 ---
 
-### 📱 Proyecto Destacado: ESTACO CR
-**Estimador de Costos para la Construcción** - Una solución móvil integral diseñada para el mercado costarricense.
+### 🛠️ Tech Stack & Tools
 
-* 🍎 **App Store:** [Disponible aquí](https://apps.apple.com/cr/app/estaco-cr/id6755981891)
-* 🤖 **Google Play:** [Acceso Anticipado](https://play.google.com/store/apps/details?id=com.tfgapp.estacocr)
-* 🛠️ **Tech:** Flutter, Dart, Arquitectura Limpia.
+**Mobile & Frontend:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Languages:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Databases & Data:**
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+**Architecture & Tools:**
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Pattern-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🤝 Conectemos
-¿Tenés un proyecto en mente o buscás potenciar tu negocio? Hablemos:
+### 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinvalverdev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/3r2cui)
+#### 🏗️ ESTACO CR (Mobile App in Production)
+A comprehensive mobile solution designed for civil construction cost estimation in the Costa Rican market. Developed from scratch using **Flutter and Dart** implementing **Clean Architecture**.
+* 🍎 **App Store:** [Download Here](https://apps.apple.com/cr/app/estaco-cr/id6755981891)
+* 🤖 **Google Play:** [Early Access](https://play.google.com/store/apps/details?id=com.tfgapp.estacocr)
+
+#### 📚 Library Management System
+A robust desktop application built with **C#, ASP.NET, and Microsoft SQL Server**. Structured under the **MVC** design pattern, applying OOP principles and advanced SQL query optimization for maximum data efficiency.
 
 ---
-<p align="center"><i>"Transformando líneas de código en soluciones de alto rendimiento."</i></p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/jvalverde-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=jvalverde-dev&show_icons=true&theme=radical&hide_border=true" alt="Justin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/jvalverde-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalverde-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/justinvalverdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jvalverde.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.link/3r2cui" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</div>
